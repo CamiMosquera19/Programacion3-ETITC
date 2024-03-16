@@ -1,6 +1,14 @@
 body{
-    background-color: beige;
+    background-color: white;
     max-width: 79%;
 
     margin:0 auto;
+
+    content-visibility: Arial.Verdana. sans-serif;
+    h1, h2{
+        color: red;}
+    p{
+        color: black;}
 }
+
+<-- https://www.hostinger.co/tutoriales/insertar-imagen-html#:~:text=Accede%20al%20archivo%20HTML%20donde,alt%20para%20describir%20la%20imagen.// -->
