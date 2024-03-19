@@ -1,20 +1,85 @@
 body {
-    background-image: url(images/estadio.avif);
+    background-image: url(images/Default_broken_heart_with_hope_3.jpg);
+    background-size: cover;
+    background-position: center;
     color: black;
     margin-left: 30;
-    margin-right: 200;
+    margin-right: 20;
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
-
-    content-visibility: Arial,
-        Verdana,
-        sans-serif;
 }
 
 .container {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.80);
+    border: #fefbacd6 2px solid;
     padding-right: 3em;
-    padding-left: 6em;
+    padding-left: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius: 1px;
 }
 
+#nav {
+    background-color: #fff702a0;
+    padding: 5px;
+    margin: 0 0 15px 0px;
+    /* text-align: center; */
+}
+
+a.title {
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li.title {
+    display: inline;
+    padding: 0 5%;
+}
+
+.img2 {
+
+    width: 3em;
+    border-radius: 10px;
+    /* background-position: 14em; */
+    margin-left: 14em;
+    display: inline;
+}
+
+.img3 {
+
+    width: 3em;
+    border-radius: 10px;
+    /* background-position: 14em; */
+    margin-left: 14em;
+    display: inline;
+}
+
+.img4 {
+
+    width: 3em;
+    border-radius: 10px;
+    /* background-position: 14em; */
+    margin-left: 14em;
+    display: inline;
+}
+
+.img5 {
+
+    width: 3em;
+    border-radius: 10px;
+    /* background-position: 14em; */
+    margin-left: 14em;
+    display: inline;
+}
+
+.img6 {
+
+    width: 3em;
+    border-radius: 10px;
+    /* background-position: 14em; */
+    margin-left: 14em;
+    
+}
+
+/*  */
