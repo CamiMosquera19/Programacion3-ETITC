@@ -1,14 +1,20 @@
-body{
-    background-color: white;
-    max-width: 79%;
+body {
+    background-image: url(images/estadio.avif);
+    color: black;
+    margin-left: 30;
+    margin-right: 200;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
 
-    margin:0 auto;
-
-    content-visibility: Arial.Verdana. sans-serif;
-    h1, h2{
-        color: red;}
-    p{
-        color: black;}
+    content-visibility: Arial,
+        Verdana,
+        sans-serif;
 }
 
-<-- https://www.hostinger.co/tutoriales/insertar-imagen-html#:~:text=Accede%20al%20archivo%20HTML%20donde,alt%20para%20describir%20la%20imagen.// -->
+.container {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding-right: 3em;
+    padding-left: 6em;
+}
+
