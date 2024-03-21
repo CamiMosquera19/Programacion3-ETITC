@@ -54,4 +54,11 @@ li.title {
     border-radius: 10px;
     /* background-position: 14em; */
     display: inline;
+    position: right;
+}
+
+.img1{
+    width: 12em;
+    border-radius: 5%;
+    border: rgb(227, 100, 20) 2px solid;
 }
