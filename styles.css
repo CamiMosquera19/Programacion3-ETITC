@@ -1,5 +1,6 @@
 body {
     background-image: url(images/Default_broken_heart_with_hope_3.jpg);
+    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     color: black;
@@ -62,4 +63,10 @@ li.title {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.div3 {
+
+    text-align: center;
+    font-size: 1.4em;
 }
